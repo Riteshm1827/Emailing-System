@@ -58,11 +58,6 @@ Contributions are welcome! Follow these steps to contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries or issues, feel free to reach out:
-- GitHub: [Riteshm1827](https://github.com/Riteshm1827)
-- Email: your-email@example.com
-
 ---
 ### Happy Coding! 🚀
 
